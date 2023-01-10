@@ -4,4 +4,4 @@ Challenge that generates a key based on the number of  removable devices connect
 
 ## Prerrequisites
 
-Install `win32file` with ``pip install pywin32`
+Install `win32file` with `pip install pywin32`
