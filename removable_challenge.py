@@ -38,7 +38,7 @@ def executeChallenge():
     print("Python: starting executeChallenge()")
     medias=locate_usb()
     print(medias)
-    key=""
+    key='0000'
     key='-'.join(medias)
     key = bytes(key, 'utf-8')
     key_size = len(key)
