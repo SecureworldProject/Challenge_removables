@@ -2,7 +2,7 @@
 Challenge que genera una clave en función del número de dispositivos extraíbles conectados al ordenador.
 
 
-## Prerrequisites
+## Prerrequisitos
 
 Instalar la librería `win32file` con `pip install pywin32`
 
